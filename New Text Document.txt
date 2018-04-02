@@ -1,5 +1,0 @@
-cd D:\Users\rameshd\Desktop\
-newman -c Endtoend.postman_collection.json -d data.json -H Report.html
-
-
-D:\Users\rameshd\AppData\Roaming\npm\newman run Endtoend.postman_collection.json
